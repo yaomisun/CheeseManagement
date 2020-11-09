@@ -1,0 +1,11 @@
+F:\ProjectsList\Rusty Dragon CheeseManagement\CheeseManagement\obj\Debug\CheeseManagement.Forms.MainBrowser.resources
+F:\ProjectsList\Rusty Dragon CheeseManagement\CheeseManagement\obj\Debug\CheeseManagement.Forms.UserLogin.resources
+F:\ProjectsList\Rusty Dragon CheeseManagement\CheeseManagement\obj\Debug\CheeseManagement.csproj.GenerateResource.cache
+F:\ProjectsList\Rusty Dragon CheeseManagement\CheeseManagement\obj\Debug\CheeseManagement.csproj.CoreCompileInputs.cache
+F:\ProjectsList\Rusty Dragon CheeseManagement\CheeseManagement\bin\Debug\CheeseManagement.exe.config
+F:\ProjectsList\Rusty Dragon CheeseManagement\CheeseManagement\bin\Debug\CheeseManagement.exe
+F:\ProjectsList\Rusty Dragon CheeseManagement\CheeseManagement\bin\Debug\CheeseManagement.pdb
+F:\ProjectsList\Rusty Dragon CheeseManagement\CheeseManagement\obj\Debug\CheeseManagement.csprojAssemblyReference.cache
+F:\ProjectsList\Rusty Dragon CheeseManagement\CheeseManagement\obj\Debug\CheeseManagement.Properties.Resources.resources
+F:\ProjectsList\Rusty Dragon CheeseManagement\CheeseManagement\obj\Debug\CheeseManagement.exe
+F:\ProjectsList\Rusty Dragon CheeseManagement\CheeseManagement\obj\Debug\CheeseManagement.pdb

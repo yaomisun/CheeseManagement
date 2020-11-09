@@ -1,0 +1,18 @@
+F:\IT business\PackageManagement\PackageManagement\PackageManagement\bin\Debug\PackageManagement.exe.config
+F:\IT business\PackageManagement\PackageManagement\PackageManagement\obj\Debug\PackageManagement.csprojResolveAssemblyReference.cache
+F:\IT business\PackageManagement\PackageManagement\PackageManagement\obj\Debug\PackageManagement.Forms.ControlPanel.resources
+F:\IT business\PackageManagement\PackageManagement\PackageManagement\obj\Debug\PackageManagement.MainPanel.resources
+F:\IT business\PackageManagement\PackageManagement\PackageManagement\obj\Debug\PackageManagement.Forms.UserLogin.resources
+F:\IT business\PackageManagement\PackageManagement\PackageManagement\obj\Debug\PackageManagement.Properties.Resources.resources
+F:\IT business\PackageManagement\PackageManagement\PackageManagement\obj\Debug\PackageManagement.csproj.GenerateResource.Cache
+F:\ProjectsList\PackageManagement\PackageManagement\PackageManagement\bin\Debug\PackageManagement.exe.config
+F:\ProjectsList\PackageManagement\PackageManagement\PackageManagement\obj\Debug\PackageManagement.Forms.ControlPanel.resources
+F:\ProjectsList\PackageManagement\PackageManagement\PackageManagement\obj\Debug\PackageManagement.MainPanel.resources
+F:\ProjectsList\PackageManagement\PackageManagement\PackageManagement\obj\Debug\PackageManagement.Forms.UserLogin.resources
+F:\ProjectsList\PackageManagement\PackageManagement\PackageManagement\obj\Debug\PackageManagement.Properties.Resources.resources
+F:\ProjectsList\PackageManagement\PackageManagement\PackageManagement\obj\Debug\PackageManagement.csproj.GenerateResource.Cache
+F:\ProjectsList\PackageManagement\PackageManagement\PackageManagement\bin\Debug\PackageManagement.exe
+F:\ProjectsList\PackageManagement\PackageManagement\PackageManagement\bin\Debug\PackageManagement.pdb
+F:\ProjectsList\PackageManagement\PackageManagement\PackageManagement\obj\Debug\PackageManagement.exe
+F:\ProjectsList\PackageManagement\PackageManagement\PackageManagement\obj\Debug\PackageManagement.pdb
+F:\ProjectsList\PackageManagement\PackageManagement\PackageManagement\obj\Debug\PackageManagement.csprojResolveAssemblyReference.cache
